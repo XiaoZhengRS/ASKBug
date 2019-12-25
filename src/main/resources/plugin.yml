@@ -1,0 +1,4 @@
+name: ASKBug
+version: ${project.version}
+depend: [ASkyBlock]
+main: com.xiaozhengkeji.askbug.ASKBug
